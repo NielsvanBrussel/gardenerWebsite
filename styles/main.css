@@ -256,7 +256,7 @@ section {
 
 
 .section__head {
-    background:linear-gradient(0deg, rgba(0, 0, 0, 0.3), rgba(0, 0, 0, 0.3)), url("/assets/images/head5.jpg");
+    background:linear-gradient(0deg, rgba(0, 0, 0, 0.3), rgba(0, 0, 0, 0.3)), url("../assets/images/head5.jpg");
     background-repeat: no-repeat;
     background-color: var(--mainTextColor-light);
     background-size: cover;
@@ -682,7 +682,7 @@ section {
 
 
 .section__form {
-    background:linear-gradient(0deg, rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url("/assets/images/worldmap-dotted.png");
+    background:linear-gradient(0deg, rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url("../assets/images/worldmap-dotted.png");
     background-repeat: no-repeat;
     background-color: var(--mainCTAColor-dark);
     background-size: 100% auto;
@@ -942,21 +942,21 @@ footer {
     font-family: "GreatVibes";
     font-style: normal;
     font-weight: 200;
-    src: url("/assets/fonts/GreatVibes-Regular.ttf") format("truetype");
+    src: url("../assets/fonts/GreatVibes-Regular.ttf") format("truetype");
 }
 
 @font-face {
     font-family: "BarlowCondensed";
     font-style: normal;
     font-weight: 200;
-    src: url("/assets/fonts/BarlowCondensed-Regular.ttf") format("truetype");
+    src: url("../assets/fonts/BarlowCondensed-Regular.ttf") format("truetype");
 }
 
 @font-face {
     font-family: "BarlowCondensedSemiBold";
     font-style: normal;
     font-weight: 200;
-    src: url("/assets/fonts/BarlowCondensed-SemiBold.ttf") format("truetype");
+    src: url("../assets/fonts/BarlowCondensed-SemiBold.ttf") format("truetype");
 }
 
 
@@ -964,12 +964,12 @@ footer {
     font-family: "NunitoRegular";
     font-style: normal;
     font-weight: 200;
-    src: url("/assets/fonts/Nunito-Black.ttf") format("truetype");
+    src: url("../assets/fonts/Nunito-Black.ttf") format("truetype");
 }
 
 @font-face {
     font-family: "NunitoLight";
     font-style: normal;
     font-weight: 200;
-    src: url("/assets/fonts/Nunito-Light.ttf") format("truetype");
+    src: url("../assets/fonts/Nunito-Light.ttf") format("truetype");
 }
