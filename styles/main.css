@@ -163,6 +163,7 @@ body {
 .navbar__home__container {
     width: 100%;
     margin: 0rem 4vw;
+    height: 100%;
 }
 .navbar__home__flex {
     display: flex;
@@ -203,6 +204,7 @@ body {
     height: 50%;
     width: auto;
     margin: 25% 0;
+    transition: height 1s ease;
 }
 
 .navbar__logo__name {
